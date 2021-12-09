@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630489379903",
+    "project_id": "davaleba-4-qula-minda",
+    "storage_bucket": "davaleba-4-qula-minda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630489379903:android:d6122697c5c426c3b0b48a",
+        "android_client_info": {
+          "package_name": "com.example.davaleba4quliani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630489379903-fjll8gj96l5ooj1hal5j5aa5bgivvm67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5WEWVqetNwhqEomI0HlQTsuIKvJDJxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630489379903-fjll8gj96l5ooj1hal5j5aa5bgivvm67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
